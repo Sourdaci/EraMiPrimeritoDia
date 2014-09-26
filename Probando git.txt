@@ -6,3 +6,4 @@ Veeeenga, algo interesante:
 	git add . = añade las instantaneas a la base de datos
 	git commit -m "Nombre" = nombra las nuevas instantáneas añadidas
 	git log --oneline = muestra de forma reducida las versiones de los archivos
+	git reset --hard "Codigo" = Devuelve el proyecto al estado de la instantánea "Codigo"
